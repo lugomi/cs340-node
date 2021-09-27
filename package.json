@@ -1,0 +1,24 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "node.JS app for cs340 @ oregon state",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugomi/cs340-node.git"
+  },
+  "author": "miguel lugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lugomi/cs340-node/issues"
+  },
+  "homepage": "https://github.com/lugomi/cs340-node#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "forever": "^4.0.1",
+    "mysql": "^2.18.1"
+  }
+}
